@@ -9,18 +9,17 @@ function About() {
       <div>
         <h1 className="text-3xl font-bold mb-5">About</h1>
         <p>
-          Hello, I'm Akhil, a passionate Web developer with a keen eye for MERN
-          Stack . With a background in IT, I strive to create impactful and
-          visually stunning Software solutions that leave a lasting impression.
+          Hello, I'm Syed Shan-e-Ali, a passionate MERN stack developer with a strong background in web development. 
+          Currently, I am in my 5th semester at the University of Management and Technology (UMT) in Lahore, 
+          maintaining a CGPA of 3.69. I have a year of experience in developing impactful and visually engaging 
+          software solutions that make a difference.
         </p>
         <br />
         <h1 className="text-green-600 font-semibold text-xl">
           Education & Training
         </h1>
         <span>
-          [Degree/Certification], [Institution], [Year] [Degree/Certification],
-          [Institution], [Year] [Relevant Course], [Platform/Institution],
-          [Year]
+          Pursuing Bachelor's Degree in IT, UMT Lahore, Current CGPA: 3.69
         </span>
         <br />
         <br />
@@ -28,10 +27,8 @@ function About() {
           Skills & Expertise
         </h1>
         <span>
-          Proficient in [Programming Languages] Experienced with [Software
-          Tools/Technologies] Strong grasp of [Design Principles/Concepts]
-          Excellent problem-solving skills Effective communicator and
-          collaborator
+          Proficient in JavaScript, HTML, CSS, and ReactJS Experienced with MongoDB, Express.js, Node.js Strong grasp of 
+          modern web design principles Excellent problem-solving skills and a collaborative mindset
         </span>
         <br />
         <br />
@@ -39,20 +36,8 @@ function About() {
           Professional Experience
         </h1>
         <span>
-          [Job Title], [Company/Organization], [Dates] [Brief description of
-          responsibilities and achievements] [Job Title],
-          [Company/Organization], [Dates] [Brief description of responsibilities
-          and achievements] [Freelance/Contract Work], [Client/Organization],
-          [Dates] [Brief description of projects and contributions]
-        </span>
-        <br />
-        <br />
-        <h1 className="text-green-600 font-semibold text-xl">
-          Achievements & Awards
-        </h1>
-        <span>
-          [Award/Recognition], [Organization/Institution], [Year] [Achievement],
-          [Organization/Platform], [Year]
+          MERN Stack Developer, 1 Year of experience in developing full-stack web applications. 
+          Contributed to various freelance projects, focusing on responsive design, API integration, and performance optimization.
         </span>
         <br />
         <br />
@@ -60,11 +45,9 @@ function About() {
           Mission Statement
         </h1>
         <p>
-          My mission is to leverage my skills and creativity to deliver
-          innovative [Your Field] solutions that exceed client expectations and
-          contribute positively to the digital landscape. I am committed to
-          continuous learning and growth, always seeking new challenges and
-          opportunities to expand my horizons.
+          My mission is to utilize my skills and creativity to build innovative web solutions that exceed expectations 
+          and positively impact the digital world. I am committed to continuous learning and growth, 
+          always seeking new challenges to enhance my expertise.
         </p>
       </div>
     </div>

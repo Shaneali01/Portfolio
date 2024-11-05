@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
 import PortFolio from "./components/PortFolio";
-import Experiance from "./components/Experiance";
+import Experience from "./components/Experience";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
 import { Toaster } from "react-hot-toast";
@@ -11,12 +11,12 @@ import { Toaster } from "react-hot-toast";
 function App() {
   return (
     <>
-      <div>
+      <div className="dark:bg-black dark:text-white">
         <Navbar />
         <Home />
         <About />
         <PortFolio />
-        <Experiance />
+        <Experience/>
         <Contact />
         <Footer />
       </div>
